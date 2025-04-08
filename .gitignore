@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Node (only if you add npm packages later)
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# IDEs & editors
+.vscode/
+.idea/
+*.swp
+
+# OS trash
+Thumbs.db
